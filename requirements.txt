@@ -1,0 +1,5 @@
+streamlit
+yfinance
+pickle
+datetime
+sklearn
